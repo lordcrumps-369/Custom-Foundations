@@ -1,0 +1,3 @@
+LIBRARY TS2-BrickFoundations
+EXPORTS
+    InitializeASI
